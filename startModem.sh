@@ -1,1 +1,1 @@
-/Users/kitdev/modem3g/umtskeeper --sakisswitches "USBINTERFACE='0' OTHER='USBMODEM' USBMODEM='12d1:1506'  SIM_PIN='1234' APN='CUSTOM_APN' CUSTOM_APN='internet' APN_USER='true' APN_PASS='true'" --sakisoperators "--sudo --console" --devicename 'Huawei'  --log --silent --monthstart 8 --nat 'no'
+/Users/kitdev/modem3g/umtskeeper --sakisswitches "USBINTERFACE=ù3û OTHER='USBMODEM' USBMODEM=û05c6:9090û  SIM_PIN='1234' APN='CUSTOM_APN' CUSTOM_APN='internet' APN_USER='true' APN_PASS='true'" --sakisoperators "--sudo --console" --log --silent --monthstart 8 --nat 'no'
